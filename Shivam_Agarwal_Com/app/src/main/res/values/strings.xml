@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shivam_Agarwal</string>
+    <string name="_15th_character">15th Character</string>
+    <string name="every15th_character">Every 15th Character</string>
+    <string name="word_counter">Word Counter</string>
+    <string name="error_msg">Something went wrong.</string>
+    <string name="btn_call_blog_label">Click Here</string>
+    <string name="title_activity_main_compose">MainActivityCompose</string>
+</resources>
